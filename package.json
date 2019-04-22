@@ -1,6 +1,6 @@
 {
   "name": "@better/xml2json",
-  "version": "0.11.3",
+  "version": "0.11.4",
   "publishConfig": {
     "access": "restricted",
     "registry": "https://artifactory.bettermg.com/artifactory/api/npm/npm/"
